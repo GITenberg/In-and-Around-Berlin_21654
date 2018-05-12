@@ -1,0 +1,26 @@
+_repo: In-and-Around-Berlin_21654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Minerva Brace
+    birthdate: 1837
+    gutenberg_agent_id: '24838'
+    url: http://www.gutenberg.org/2009/agents/24838
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2007-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Berlin (Germany) -- Description and travel'
+title: In and Around Berlin
+url: http://www.gutenberg.org/ebooks/21654
