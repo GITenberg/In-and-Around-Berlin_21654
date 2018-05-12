@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '24838'
     url: http://www.gutenberg.org/2009/agents/24838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21654#In-and-Around-Berlin
 gutenberg_bookshelf: Germany
 gutenberg_issued: '2007-06-01'
 gutenberg_type: Text
